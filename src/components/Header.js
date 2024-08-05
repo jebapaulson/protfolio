@@ -10,7 +10,7 @@ export default function Header() {
       <nav className="hidden md:block">
         <ul className="flex text-white">
           <li>
-            <a href="/#home">Home</a>
+            <a href="#home">Home</a>
           </li>
           <li>
             <a href="#about">About</a>
